@@ -1,3 +1,3 @@
 # Optimizer visualization tool
 
-<img width="2552" height="1344" alt="image" src="https://github.com/user-attachments/assets/a511e989-3f06-489e-a390-48424a81fda9" />
+<img width="2546" height="1332" alt="image" src="https://github.com/user-attachments/assets/45d2cb5d-9f7b-4998-8df5-1774dd112927" />
