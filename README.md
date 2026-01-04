@@ -6,6 +6,3 @@ Steps to
 
 
 
-
-
-
